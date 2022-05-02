@@ -1,4 +1,4 @@
-First PoC of data-driven formuladb low-code platform. **abbandoned**
+First PoC of data-driven formuladb low-code platform. **abandoned**
 
 
 # Febe
